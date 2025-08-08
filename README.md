@@ -67,7 +67,6 @@ Sales transaction data containing:
 
 ## 📷 Dashboard Preview
 https://github.com/muthu-analytics/Sales_Dashboard_Project/blob/main/dashboard_screenshot.png
-[![FNP Sales Dashboard](dashboard_screenshot.png)](FNP_Sales_Dashboard.xlsx)
 
 ---
 
