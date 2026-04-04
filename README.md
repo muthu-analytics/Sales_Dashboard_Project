@@ -3,18 +3,18 @@
 ## 📌 Project Overview
 This project analyzes sales performance of an FNP store to identify key revenue drivers, customer behavior, and business opportunities. The dashboard provides actionable insights to support data-driven decision-making.
 
-## 🎯 Business Objective
-- Identify top revenue-generating occasions
-- Analyze best-performing product categories
-- Discover high-performing cities
-- Understand peak sales periods
-- Improve overall sales strategy
+## 🎯 Business Objectives
+- Identify top revenue-generating occasions and trends  
+- Analyze best-performing product categories  
+- Discover high-performing cities  
+- Understand peak sales periods  
+- Improve overall sales strategy  
 
 ## 🛠 Tools & Technologies
-- Microsoft Excel
-- Power Query
-- Pivot Tables
-- Data Visualization (Charts & Dashboard)
+- Microsoft Excel  
+- Power Query  
+- Pivot Tables  
+- Data Visualization (Charts & Dashboard)  
 
 ## 📂 Dataset
 The dataset includes:
@@ -26,11 +26,11 @@ The dataset includes:
 - Revenue  
 
 ## 🔍 Data Analysis Process
-- Cleaned and validated data (handled missing values & inconsistencies)
-- Transformed dataset using Power Query
-- Created Pivot Tables for KPI analysis
-- Designed visualizations for trends and comparisons
-- Built an interactive dashboard with slicers for filtering
+- Cleaned and validated data (handled missing values & inconsistencies)  
+- Transformed dataset using Power Query  
+- Created Pivot Tables for KPI analysis  
+- Designed visualizations for trends and comparisons  
+- Built an interactive dashboard with slicers for filtering  
 
 ## 📊 Key Insights
 - **Total Orders:** 1,000  
@@ -50,10 +50,10 @@ The dataset includes:
 ![Dashboard](https://github.com/muthu-analytics/Sales_Dashboard_Project/blob/main/dashboard_screenshot.png)
 
 ## 🚀 Business Recommendations
-- Focus marketing on high-performing occasions like Anniversary
-- Promote top categories and best-selling products
-- Target high-performing cities for campaigns
-- Optimize campaigns during peak sales hours
+- Focus marketing on high-performing occasions like Anniversary  
+- Promote top categories and best-selling products  
+- Target high-performing cities for campaigns  
+- Optimize campaigns during peak sales hours  
 
 ## 🏁 Conclusion
-This project demonstrates how data analysis and visualization can uncover valuable business insights and support strategic decision-making.
+This project demonstrates how data analysis and visualization can uncover valuable business insights and support strategic business decisions.
