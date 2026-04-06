@@ -15,8 +15,9 @@ The goal of this project is to analyze sales data and build a dashboard that pro
 ---
 
 ## 🛠️ Tools Used
-- Excel / Power BI  *(update based on your tool)*  
-- Data Cleaning  
+- Power BI  
+- Microsoft Excel  
+- Data Cleaning & Transformation  
 - Data Visualization  
 
 ---
@@ -56,12 +57,12 @@ The dataset contains information about:
 ---
 
 ## 📷 Dashboard Preview
-https://github.com/muthu-analytics/Sales_Dashboard_Project/blob/main/dashboard_screenshot.png
+![Dashboard Screenshot](https://github.com/muthu-analytics/Sales_Dashboard_Project/blob/main/dashboard_screenshot.png)
 
 ---
 
 ## 🚀 Conclusion
-This project demonstrates how data visualization and analysis can help businesses understand performance and make better strategic decisions.
+This project highlights my ability to transform raw data into actionable business insights using data visualization tools.
 
 ---
 
