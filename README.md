@@ -1,59 +1,46 @@
-# 📊 FNP Sales Analysis Dashboard (Excel)
+📊 Sales Dashboard Project
+📌 Problem Statement
 
-## 📌 Project Overview
-This project analyzes sales performance of an FNP store to identify key revenue drivers, customer behavior, and business opportunities. The dashboard provides actionable insights to support data-driven decision-making.
+Businesses often struggle to track their sales performance effectively, which makes it difficult to identify growth opportunities and improve decision-making.
+The goal of this project is to analyze sales data and build a dashboard that provides clear insights into performance across regions, products, and time.
 
-## 🎯 Business Objectives
-- Identify top revenue-generating occasions and trends  
-- Analyze best-performing product categories  
-- Discover high-performing cities  
-- Understand peak sales periods  
-- Improve overall sales strategy  
+🎯 Objective
+Monitor overall sales performance
+Identify top-performing regions and products
+Detect underperforming areas
+Support data-driven business decisions
+🛠️ Tools Used
+Excel / Power BI (update based on what you used)
+Data Cleaning
+Data Visualization
+📂 Dataset
 
-## 🛠 Tools & Technologies
-- Microsoft Excel  
-- Power Query  
-- Pivot Tables  
-- Data Visualization (Charts & Dashboard)  
+The dataset contains information about:
 
-## 📂 Dataset
-The dataset includes:
-- Order Date & Delivery Date  
-- Occasion  
-- Product Category  
-- City  
-- Order Time  
-- Revenue  
+Sales transactions
+Product categories
+Regions
+Time (monthly/yearly data)
+📊 Dashboard Features
+Total Sales, Profit, and Orders (KPIs)
+Sales trend over time
+Region-wise performance analysis
+Category-wise sales distribution
+Interactive filters for better exploration
+🔍 Key Insights
+Top-performing regions contribute the majority of revenue
+Certain product categories consistently generate higher sales
+Some regions show lower performance and need improvement
+Sales trends indicate growth opportunities in specific periods
+💡 Business Recommendations
+Focus on high-performing products to maximize revenue
+Improve strategies in low-performing regions
+Use historical trends to plan future sales strategies
+Allocate resources based on data-driven insights
+📷 Dashboard Preview
 
-## 🔍 Data Analysis Process
-- Cleaned and validated data (handled missing values & inconsistencies)  
-- Transformed dataset using Power Query  
-- Created Pivot Tables for KPI analysis  
-- Designed visualizations for trends and comparisons  
-- Built an interactive dashboard with slicers for filtering  
+(Add your dashboard screenshot here)
 
-## 📊 Key Insights
-- **Total Orders:** 1,000  
-- **Total Revenue:** ₹35,20,984  
-- **Average Customer Spend:** ₹3,521  
+🚀 Conclusion
 
-- **Top Occasion:** Anniversary (~₹7 lakh)  
-- **Top Category:** Colors (~₹10 lakh)  
-- **Top Product:** Magman Set (~₹1.3 lakh)  
-
-- **Highest Revenue Months:** March & September  
-- **Top Cities:** Imphal, Dhanbad, Haridwar  
-
-- **Peak Sales Hours:** 7 AM, 1 PM, 7 PM  
-
-## 📷 Dashboard Preview
-![Dashboard](https://github.com/muthu-analytics/Sales_Dashboard_Project/blob/main/dashboard_screenshot.png)
-
-## 🚀 Business Recommendations
-- Focus marketing on high-performing occasions like Anniversary  
-- Promote top categories and best-selling products  
-- Target high-performing cities for campaigns  
-- Optimize campaigns during peak sales hours  
-
-## 🏁 Conclusion
-This project demonstrates how data analysis and visualization can uncover valuable business insights and support strategic business decisions.
+This project demonstrates how data visualization and analysis can help businesses understand performance and make better strategic decisions.
