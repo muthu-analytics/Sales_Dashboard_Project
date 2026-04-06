@@ -56,7 +56,7 @@ The dataset contains information about:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](your-image-link-here)
+https://github.com/muthu-analytics/Sales_Dashboard_Project/blob/main/dashboard_screenshot.png
 
 ---
 
