@@ -167,19 +167,3 @@ The insights can help management make better decisions about:
 
 ```
 
-### One small improvement I recommend
-
-Your original README says:
-
-> **“Forecast future demand”**
-
-But your project appears to be **historical trend and seasonality analysis**, not an actual forecasting model. So I changed it to:
-
-> **“Support future planning”**
-
-That is more accurate and safer to explain in an interview.
-
-Also, your original **“Business Impact”** says you reduced stock-outs, reduced inventory costs, and improved ROI. Unless you actually measured those outcomes, don't claim that you achieved them. Instead, say the analysis **can help management make those decisions**.
-
-That makes your GitHub project look **honest, professional, and interview-ready**.
-```
